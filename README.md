@@ -17,6 +17,6 @@ A really terrible guide for making themes for idiots like me (no offense to any 
 -Test it yourself on your own devices.<br>
 <br>
 
-Youtube Guide:
+Youtube Guide: https://youtu.be/pBx1xAzkkgs
 
 - - - -
